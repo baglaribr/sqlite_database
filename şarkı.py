@@ -124,7 +124,7 @@ class Liste():
         
 print("""******************************
       
-Kütüphane Programına Hoşgeldiniz.
+Şarkı Programına Hoşgeldiniz.
 
 İşlemler;
 
